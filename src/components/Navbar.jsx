@@ -175,7 +175,7 @@ const Navbar = () => {
             transition={{ type: "spring", stiffness: 300 }}
           >
             <a
-              href="/src/assets/RafiCV.pdf"
+              href="https://pdf.ac/meHOxCjI"
               download
               target="_blank"
               rel="noopener noreferrer"
@@ -245,7 +245,7 @@ const Navbar = () => {
               transition={{ delay: navLinks.length * 0.15 }}
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.95 }}
-              href="/src/assets/RafiCV.pdf"
+              href="https://pdf.ac/meHOxCjI"
               target="_blank"
               rel="noopener noreferrer"
               onClick={toggleMenu}
