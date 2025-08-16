@@ -197,7 +197,9 @@ const Designation = () => {
           >
             <TypeAnimation
               sequence={[
-                "Frontend Developer",
+                "MERN stack Developer",
+                2000,
+                "Web Developer",
                 2000,
                 "React Developer",
                 2000,

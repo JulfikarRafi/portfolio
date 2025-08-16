@@ -89,7 +89,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="border-t border-white/10 text-center py-4 text-sm text-gray-400">
-        © {new Date().getFullYear()} My Portfolio. All rights reserved.
+        © {new Date().getFullYear()} Dev_Rafi. All rights reserved.
       </div>
     </footer>
   );
